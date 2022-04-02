@@ -8,3 +8,10 @@ PROCESSORI
 SCHEDE MADRI
 
 [qui](https://github.com/TodescoMattia/Assignment-1/blob/develop/schede_madri.md)
+<<<<<<< HEAD
+=======
+
+Elettronica Padovana
+
+
+>>>>>>> 42a2de6c958385810189b0c1ba91e45975a5a96b
