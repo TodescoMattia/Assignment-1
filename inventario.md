@@ -10,3 +10,5 @@ SCHEDE MADRI
 [qui](https://github.com/TodescoMattia/Assignment-1/blob/develop/schede_madri.md)
 
 componenti
+
+periferiche
